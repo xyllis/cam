@@ -1,5 +1,3 @@
-# Using the Paparazzo.js module
-
 Paparazzo = require './paparazzo'
 http = require 'http'
 url = require 'url'
