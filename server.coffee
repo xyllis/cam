@@ -4,11 +4,6 @@ Paparazzo = require './paparazzo'
 http = require 'http'
 url = require 'url'
 
-#cluster = require 'cluster'
-#numCPUs = require 'os'
-#numCPUs = numCPUs.cpus().length
-#util = require 'util'
-
 camdata =
     "daika"  : 
         "host" : "daika.dyndns.tv"
