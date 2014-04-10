@@ -32,13 +32,6 @@ camdata =
         "pass" : "g4s1"
         "listen_port" : 42434
         "log_level" : 0
-    "kose" : 
-        "host" : "kose.dyndns.tv"
-        "port" : 8080
-        "user" : "g4s1"
-        "pass" : "g4s1"
-        "listen_port" : 42435
-        "log_level" : 0
         
 setup = (name, param) ->
     paparazzo = new Paparazzo
