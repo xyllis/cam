@@ -32,8 +32,6 @@ camdata =
         "pass" : "g4s1"
         "listen_port" : 42434
         "log_level" : 0
-<<<<<<< HEAD
-=======
     "kobo" : 
         "host" : "kose.dyndns.tv"
         "port" : 8080
@@ -41,8 +39,7 @@ camdata =
         "pass" : "g4s1"
         "listen_port" : 42435
         "log_level" : 0
->>>>>>> ver1.1
-        
+
 setup = (name, param) ->
     paparazzo = new Paparazzo
         host: param.host
