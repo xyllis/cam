@@ -38,7 +38,7 @@ camdata =
         "pass" : "g4s1"
         "listen_port" : 42434
         "log_level" : 0
-    "kose" : 
+    "kobo" : 
         "host" : "kose.dyndns.tv"
         "port" : 8080
         "user" : "g4s1"
